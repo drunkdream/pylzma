@@ -23,6 +23,7 @@
  *
  */
 
+#include <stdint.h>
 #include <Python.h>
 
 #include "../sdk/C/Aes.h"
